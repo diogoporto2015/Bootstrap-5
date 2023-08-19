@@ -200,3 +200,11 @@ form-floating - Permite o texto flutuar em qualquer input textual.
 //Cards
 
 card-body - criar uma caixa de contorno meio arrendondado
+
+
+//Alertas, Badges e Listas
+
+alert alert-primary -  Criar um alerta simples
+lert-heading - Cria um título
+alert-link - Cria um link
+bi-info-circle - Cria um icone
