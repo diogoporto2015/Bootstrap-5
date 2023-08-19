@@ -208,3 +208,7 @@ alert alert-primary -  Criar um alerta simples
 lert-heading - Cria um título
 alert-link - Cria um link
 bi-info-circle - Cria um icone
+alert-dismissible - Cria uma opção de fechar o alert
+<button class="btn-close" data-bs-dismiss="alert"></button>
+
+alert-dismissible fade show - fecha de uma forma mais suave
