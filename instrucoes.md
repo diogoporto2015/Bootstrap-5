@@ -217,7 +217,11 @@ alert-dismissible fade show - fecha de uma forma mais suave
 
 //Carrosséis de Slides
 
-carousel slide - referece aos Slides de imagem
+carousel slide - referece ao efeito de com será mudado os Slides das imagens
+carousel slide carousel-fade - referece ao efeito de com será mudado os Slides das imagens
 carousel-indicators - referece aos indicadores de imagem
 data-bs-slide-to="" - referece a imagem que iraá representar
 carousel-inner - referece ao grupo de imagem para o slide
+data-bs-interval="3000" - referece ao tempo em que a imagem irá mudar "Nesse exemplo 3 segundos"
+data-bs-touch - Desabilta a passagem do slide pela dispositivo móvel
+carousel-dark - Os elementos do slide fica escuro
