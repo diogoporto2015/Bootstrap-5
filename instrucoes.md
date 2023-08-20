@@ -212,3 +212,12 @@ alert-dismissible - Cria uma opção de fechar o alert
 <button class="btn-close" data-bs-dismiss="alert"></button>
 
 alert-dismissible fade show - fecha de uma forma mais suave
+
+
+
+//Carrosséis de Slides
+
+carousel slide - referece aos Slides de imagem
+carousel-indicators - referece aos indicadores de imagem
+data-bs-slide-to="" - referece a imagem que iraá representar
+carousel-inner - referece ao grupo de imagem para o slide
