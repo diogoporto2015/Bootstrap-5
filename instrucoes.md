@@ -237,3 +237,14 @@ offcanvas-start - O OffCanvas abre na esquerda
 offcanvas-top - O OffCanvas abre na parte superior
 offcanvas-bottom - O OffCanvas abre na parte inferior
 style="--bs-offcanvas-width:120px" - Configura a largura do OffCanvas
+
+
+//Componentes Simples
+
+style="--bs-breadcrumb-divider:'::" - Define o componente de separação do caminho
+spinner-border - Define um indicador de carregamento
+spinner-grow - Define um indicador de carregamento com aspecto diferente
+text-danger - Define a cor
+spinner-border-sm - Define em um tamanho menor
+progress-bar-striped - A barra fica toda listrada
+progress-bar-animated - Define uma leve animação
