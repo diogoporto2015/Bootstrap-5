@@ -225,3 +225,15 @@ carousel-inner - referece ao grupo de imagem para o slide
 data-bs-interval="3000" - referece ao tempo em que a imagem irá mudar "Nesse exemplo 3 segundos"
 data-bs-touch - Desabilta a passagem do slide pela dispositivo móvel
 carousel-dark - Os elementos do slide fica escuro
+
+
+
+//Painéis desizantes
+
+data-bs-scroll="true" - Permite rolar o conteúdo no fundo da pagina
+data-bs-backdrop="false" - Remove o fundo escuro da pagina
+data-bs-backdrop="static" - Só fecha o backdrop clicando no botão fechar
+offcanvas-start - O OffCanvas abre na esquerda
+offcanvas-top - O OffCanvas abre na parte superior
+offcanvas-bottom - O OffCanvas abre na parte inferior
+style="--bs-offcanvas-width:120px" - Configura a largura do OffCanvas

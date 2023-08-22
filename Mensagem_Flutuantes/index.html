@@ -16,7 +16,14 @@
     <hr>
 
     <div class="container my-5">
-        <div class="toast">
+
+        <button class="btn btn-primary" id="btnToast" data-bs-toggle="tooltip" data-bs-title="Este botão cria um novo <b>toast</b>" data-bs-html="true">Criar Toast</button>
+
+        <button class="btn btn-primary" id="btnToast" data-bs-toggle="popover" data-bs-title="Informação" data-bs-content="Esta e uma informação qualquer">Criar Toast 2</button>
+
+        <div class="toast-container top-0 end-0 p-3" id="toastContainer" ></div>
+
+        <div class="toast text.bg.success" id="toast">
             <div class="toast-header">
                 <i class="bi-info-circle me-1"></i>
                 <strong class="me-auto">Informação</strong>
@@ -28,7 +35,9 @@
         </div>
         <hr>
         <div class="toast">
-            <div class="toast body"></div>
+            <div class="toast body">
+                chegaram mensagen em sua caixa postal.
+            </div>
         </div>
     </div>
 
