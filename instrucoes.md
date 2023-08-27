@@ -248,3 +248,13 @@ text-danger - Define a cor
 spinner-border-sm - Define em um tamanho menor
 progress-bar-striped - A barra fica toda listrada
 progress-bar-animated - Define uma leve animação
+
+
+//Menus de Navegação
+
+nav-tabs - Define a aparencia do menu como se fosse uma guia
+nav-pills - Define a aparencia do menu como se fosse um botão
+nav-underline - Define a aparencia do menu subliando.
+justify-content-center - centraliza o menu
+nav-fill - Ocupa todo o espaço do elemento pai
+nav-justified - Define os links do menu tendo o mesma largura
