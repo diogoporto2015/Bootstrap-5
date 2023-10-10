@@ -61,14 +61,14 @@
     </div>
 
     <script>
-        // Example starter JavaScript for disabling form submissions if there are invalid fields
+        // Exemplo de JavaScript inicial para desabilitar envios de formulários se houver campos inválidos
         (() => {
             'use strict'
 
-            // Fetch all the forms we want to apply custom Bootstrap validation styles to
+            // Busque todos os formulários aos quais queremos aplicar estilos de validação personalizados do Bootstrap
             const forms = document.querySelectorAll('.needs-validation')
 
-            // Loop over them and prevent submission
+            // Passe por cima deles e evite o envio
             Array.from(forms).forEach(form => {
                 form.addEventListener('submit', event => {
                 if (!form.checkValidity()) {
